@@ -1,0 +1,28 @@
+/* COLORS*/
+$p0: #FFC1FF; 
+$p1: #FF97FF; 
+$p2: #D169DA; 
+$p3: #C241D9; 
+$p4: #822297; 
+$p5: #740794;   
+/**/
+$b0: #919191; 
+$b1: #7C7C7C;
+$b2: #6F6B6E;
+$b3: #504C50;
+$b4: #1E1C1F;
+$b5: #181419;
+$pureblack: #000000;
+
+//https://jacekjeznach.com/ 
+
+$fmain: "Bahnschrift";
+body{
+    font-family: $fmain;
+}
+
+h1{
+    color: $p4;
+    text-align: center;
+    font-size: 40vh;
+}
