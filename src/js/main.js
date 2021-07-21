@@ -4,5 +4,5 @@ function DynamicHeader(){
 
 
 function write(){
-    document.getElementById("write").innerHTML = 5 + 6;
+    document.getElementById("write").innerHTML = 5 + 3;
 }
