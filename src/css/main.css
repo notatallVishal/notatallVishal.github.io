@@ -9,4 +9,8 @@ h1 {
   text-align: center;
   font-size: 40vh;
 }
+
+h1:hover {
+  opacity: 50%;
+}
 /*# sourceMappingURL=main.css.map */
