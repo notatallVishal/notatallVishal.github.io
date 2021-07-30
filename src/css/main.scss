@@ -16,7 +16,11 @@ $pureblack: #000000;
 
 //https://jacekjeznach.com/ 
 
-$fmain: "Bahnschrift";
+$fmain: "Bahnschrift", "Garuda";
+
+* {
+    box-sizing: border-box;
+}
 
 
 body{
@@ -55,7 +59,7 @@ nav{
 }
 .logo{
     color: $p2;
-    font-size: 5vw;
+    font-size: 50px;
     grid-column: 2;
     text-decoration: none;
     animation-name: logoclr;
@@ -89,4 +93,9 @@ nav{
     align-items: center; 
     border: $p3;
     grid-column: 3;
+}
+
+
+@media only screen and (max-width: 768px) {
+//for phones
 }
