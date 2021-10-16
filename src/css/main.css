@@ -121,4 +121,14 @@ nav {
   -ms-grid-column: 3;
   grid-column: 3;
 }
+
+.menu-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center space-around stretch;
+      -ms-flex-pack: center space-around stretch;
+          justify-content: center space-around stretch;
+  width: 100%;
+}
 /*# sourceMappingURL=main.css.map */
