@@ -1,0 +1,105 @@
+/* COLORS*/
+$p0: #FFC1FF; 
+$p1: #FF97FF; 
+$p2: #D169DA; 
+$p3: #C241D9; 
+$p4: #822297; 
+$p5: #740794;   
+/**/
+$b0: #919191; 
+$b1: #7C7C7C;
+$b2: #6F6B6E;
+$b3: #504C50;
+$b4: #1E1C1F;
+$b5: #181419;
+$pureblack: #000000;
+
+//https://jacekjeznach.com/ 
+
+$fmain: "Bahnschrift", "Garuda";
+
+* {
+    box-sizing: border-box;
+}
+
+
+body{
+    font-family: $fmain;
+}
+
+h1{
+    color: $p4;
+    text-align: center;
+    font-size: 20vw;
+}
+
+h1:hover{
+    opacity: 85%;
+}
+
+.nav-container{
+    width: 100%;
+}
+nav{
+    width: 100%;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr auto 1fr; //fr "fractional", 1fr + 1fr makes two halves. auto makes fr change. 
+    position: fixed;
+    top: 0;
+    right: 0;
+    border: 10px solid red;
+}
+.left-menu{
+    display: flex; //flex-flow default at row
+    justify-content: center; //center horizontal
+    align-items: center; //center vertical
+    border: $p3;
+    grid-column: 1;
+}
+.logo{
+    color: $p2;
+    font-size: 50px;
+    grid-column: 2;
+    text-decoration: none;
+    animation-name: logoclr;
+    animation-duration: 10s;
+    animation-direction: alternate;
+}
+@keyframes logoclr{
+    0% {
+        color: $p0; 
+    }
+    20% {
+        color: $p1; 
+    }
+    40% {
+        color: $p2; 
+    }
+    60% {
+        color: $p3; 
+    }
+    80% {
+        color: $p4; 
+    }
+    100% {
+        color: $p5; 
+    }
+}
+
+.right-menu{
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    border: $p3; 
+    grid-column: 3;
+}
+.menu-container{
+    display: flex;
+    justify-content: center space-around stretch;
+    width: 100%;
+}
+
+@media only screen and (max-width: 768px) {
+//for phones
+}
