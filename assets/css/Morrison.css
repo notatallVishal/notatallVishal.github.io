@@ -1,0 +1,161 @@
+@font-face {
+	font-family: 'Morrison';
+	src: url(../../assets/fonts/Morrison-Thin.woff2) format('woff2'),
+	url(../../assets/fonts/Morrison-Thin.woff) format('woff');
+	font-weight: 100;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Morrison';
+	src: url(../../assets/fonts/Morrison-ThinItalic.woff2) format('woff2'),
+	url(../../assets/fonts/Morrison-ThinItalic.woff) format('woff');
+	font-weight: 100;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Morrison';
+	src: url(../../assets/fonts/Morrison-ExtraLight.woff2) format('woff2'),
+	url(../../assets/fonts/Morrison-ExtraLight.woff) format('woff');
+	font-weight: 200;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Morrison';
+	src: url(../../assets/fonts/Morrison-ExtraLightItalic.woff2) format('woff2'),
+	url(../../assets/fonts/Morrison-ExtraLightItalic.woff) format('woff');
+	font-weight: 200;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Morrison';
+	src: url(../../assets/fonts/Morrison-Light.woff2) format('woff2'),
+	url(../../assets/fonts/Morrison-Light.woff) format('woff');
+	font-weight: 300;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Morrison';
+	src: url(../../assets/fonts/Morrison-LightItalic.woff2) format('woff2'),
+	url(../../assets/fonts/Morrison-LightItalic.woff) format('woff');
+	font-weight: 300;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Morrison';
+	src: url(../../assets/fonts/Morrison-Regular.woff2) format('woff2'),
+	url(../../assets/fonts/Morrison-Regular.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Morrison';
+	src: url(../../assets/fonts/Morrison-Italic.woff2) format('woff2'),
+	url(../../assets/fonts/Morrison-Italic.woff) format('woff');
+	font-weight: normal;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Morrison';
+	src: url(../../assets/fonts/Morrison-Medium.woff2) format('woff2'),
+	url(../../assets/fonts/Morrison-Medium.woff) format('woff');
+	font-weight: 500;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Morrison';
+	src: url(../../assets/fonts/Morrison-MediumItalic.woff2) format('woff2'),
+	url(../../assets/fonts/Morrison-MediumItalic.woff) format('woff');
+	font-weight: 500;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Morrison';
+	src: url(../../assets/fonts/Morrison-SemiBold.woff2) format('woff2'),
+	url(../../assets/fonts/Morrison-SemiBold.woff) format('woff');
+	font-weight: 600;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Morrison';
+	src: url(../../assets/fonts/Morrison-SemiBoldItalic.woff2) format('woff2'),
+	url(../../assets/fonts/Morrison-SemiBoldItalic.woff) format('woff');
+	font-weight: 600;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Morrison';
+	src: url(../../assets/fonts/Morrison-Bold.woff2) format('woff2'),
+	url(../../assets/fonts/Morrison-Bold.woff) format('woff');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Morrison';
+	src: url(../../assets/fonts/Morrison-ExtraBold.woff2) format('woff2'),
+	url(../../assets/fonts/Morrison-ExtraBold.woff) format('woff');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Morrison';
+	src: url(../../assets/fonts/Morrison-ExtraBoldItalic.woff2) format('woff2'),
+	url(../../assets/fonts/Morrison-ExtraBoldItalic.woff) format('woff');
+	font-weight: bold;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Morrison';
+	src: url(../../assets/fonts/Morrison-BoldItalic.woff2) format('woff2'),
+	url(../../assets/fonts/Morrison-BoldItalic.woff) format('woff');
+	font-weight: bold;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Morrison';
+	src: url(../../assets/fonts/Morrison-Black.woff2) format('woff2'),
+	url(../../assets/fonts/Morrison-Black.woff) format('woff');
+	font-weight: 900;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Morrison';
+	src: url(../../assets/fonts/Morrison-BlackItalic.woff2) format('woff2'),
+	url(../../assets/fonts/Morrison-BlackItalic.woff) format('woff');
+	font-weight: 900;
+	font-style: italic;
+	font-display: swap;
+}
