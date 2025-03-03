@@ -1,9 +1,8 @@
 ---
 title: notatallVishal
 ---
-![[logo.png]]
-
 # About 👤
+
 Hi! Welcome to my corner of the internet.
 
 My name's Vishal, and I'm a current undergraduate studying electrical and computer engineering at [Carnegie Mellon University](https://www.ece.cmu.edu/).  I love to learn and explore the deepest mysteries of computer architecture, quantum computation, and physics. 
