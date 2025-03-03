@@ -1,14 +1,14 @@
 ---
 title: notatallVishal
 ---
-
+![[logo.png]]
 
 # About 👤
 Hi! Welcome to my corner of the internet.
 
 My name's Vishal, and I'm a current undergraduate studying electrical and computer engineering at [Carnegie Mellon University](https://www.ece.cmu.edu/).  I love to learn and explore the deepest mysteries of computer architecture, quantum computation, and physics. 
 
-I've gotten a strong foundation in digital design, physical design, and computer science from my academic jouney. Along the way, I've had the opportunity to work on exciting projects such as, [[risc-v|RISC-V CPU]], a [[malloc|Dynamic Memory Allocator]], and a [[wireframe-renderer|Wireframe Render on an FPGA]]. Feel free to check some of my projects below:
+I've gotten a strong foundation in digital design, physical design, and computer science from my academic journey. Along the way, I've had the opportunity to work on exciting projects such as, [[risc-v|RISC-V CPU]], a [[malloc|Dynamic Memory Allocator]], and a [[wireframe-renderer|Wireframe Render on an FPGA]]. Feel free to check some of my projects below:
 
 >[!example] Project List
 >- [[fpga-tetris|Tetris on FPGA]], May 2024
