@@ -1,5 +1,5 @@
 ---
-title: Tetris on FPGA
+title: 🕹️ Tetris on FPGA
 ---
 ```verilog
 	initial begin 

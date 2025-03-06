@@ -1,5 +1,5 @@
 ---
-title: Wireframe Renderer on FPGA
+title: 🎞️ Wireframe Renderer on FPGA
 ---
 
 ```verilog

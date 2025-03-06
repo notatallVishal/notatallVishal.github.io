@@ -1,5 +1,5 @@
 ---
-title: OpenGL Renderer in C
+title: 🎲 OpenGL Renderer in C
 ---
 
 ```c

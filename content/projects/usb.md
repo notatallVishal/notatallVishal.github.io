@@ -1,5 +1,5 @@
 ---
-title: USB v2 Spec Recreation
+title: 🔐USB v2 Spec Recreation
 ---
 
 ```verilog

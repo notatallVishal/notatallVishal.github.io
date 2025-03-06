@@ -36,3 +36,9 @@ document.addEventListener("nav", () => {
   colorSchemeMediaQuery.addEventListener("change", themeChange)
   window.addCleanup(() => colorSchemeMediaQuery.removeEventListener("change", themeChange))
 })
+
+export class themeClass {
+	getTheme() {
+		return currentTheme;
+	}
+}

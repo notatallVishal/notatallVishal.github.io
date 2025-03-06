@@ -3,7 +3,7 @@ title: notatallVishal
 ---
 # About 👤
 
-Hi, My name's Vishal. Welcome to my corner of the internet.
+Hi, My name's ***Vishal***. Welcome to my corner of the internet.
 
 I'm concurrently pursuing my master's and bachelor's degree in Electrical and Computer Engineering at [Carnegie Mellon University](https://www.ece.cmu.edu/).  I love to learn and explore the deepest mysteries of computer architecture, quantum computation, and physics. 
 
@@ -17,7 +17,7 @@ I've gotten a strong foundation in digital design, physical design, and computer
 >- [[usb|USB v2 Recreation in SystemVerilog]], November 2024
 >- [[risc-v|RISC-V CPU in SystemVerilog]], Spring 2025 (**In Progress!**)
 
-When I'm not optimizing pipelines, catching up on semiconductor trends, or reading through interesting papers, you'll find me dabbling with ***graphic design, 3D modelling, and video editing***.
+When I'm not optimizing pipelines, catching up on semiconductor trends, or reading through interesting papers, you'll find me dabbling in ***graphic design, 3D modelling, and video editing***.
 
 >[!question]- My Reading List 📑
 >| Book                                                               | Author |

@@ -1,5 +1,5 @@
 ---
-title: RISC-V Core in SystemVerilog
+title: 🖥️RISC-V Core in SystemVerilog
 ---
 
 ```verilog
