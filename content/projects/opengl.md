@@ -16,6 +16,8 @@ As of the end of Summer 2024 I implemented support for:
 - Textures and materials
 - Camera Movement and post-processing effects 
 
+![[opengl0.png]]
+
 I'd love to:
 - [ ] create a Graphical User Interface
 - [ ] implement Bloom 
