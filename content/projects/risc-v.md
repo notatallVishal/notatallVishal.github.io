@@ -1,5 +1,5 @@
 ---
-title: 🖥️RISC-V Core in SystemVerilog
+title: 🖥️An In-Order RISC-V Core in SystemVerilog
 ---
 
 ```verilog
@@ -9,8 +9,6 @@ title: 🖥️RISC-V Core in SystemVerilog
 ```
 Project made mainly in #SystemVerilog, with simulators written in #C. And of course, there's some #RISC-V assembly code.
 
->[!warning] This project is currently in-progress! More to come soon.
+In this project, we created an **in-order** RV32I processor with a blocking cache. From the semester's hard work, we were able to become pareto optimal in terms of efficiency (MIPS/Watt) and performance (MIPS) when compared against our peers. 
 
-| Single Cycle | Pipelining + Forwarding | Branch Prediction | Superscalar (Out-of-Order?) |
-| ------------ | ----------------------- | ----------------- | --------------------------- |
-| ✔️           | ✔️                      |                   |                             |
+

@@ -15,7 +15,7 @@ I've gotten a strong foundation in digital design, physical design, and computer
 >- [[opengl|OpenGL Renderer in C]], Summer 2024
 >- [[malloc|Dynamic Memory Allocator]], October 2024
 >- [[usb|USB v2 Recreation in SystemVerilog]], November 2024
->- [[risc-v|RISC-V CPU in SystemVerilog]], Spring 2025 (**In Progress!**)
+>- [[risc-v|RISC-V CPU in SystemVerilog]], Spring 2025 
 
 When I'm not optimizing pipelines, catching up on semiconductor trends, or reading through interesting papers, you'll find me dabbling in ***graphic design, 3D modelling, and video editing***.
 
