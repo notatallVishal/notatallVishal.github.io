@@ -22,15 +22,5 @@ When I'm not optimizing pipelines, catching up on semiconductor trends, or readi
 >[!question]- My Reading List 📑
 >| Book                                                               | Author |
 >| ------------------------------------------------------------------ | ------ |
->| *Elementary General Relativity*                                    |  C. Clarke      |
+>| *Computer Architecture: A Quantitative Approach*| John L. Hennessy, David A. Patterson |
 >| *Formal Verification: An Essential Toolkit for Modern VLSI Design* |     Erik Seligman, Tom Schubert, M.V. Achuta Kiran Kumar | 
-# Coursework 📔
-
-## Spring 2025 
-
-| Course Name (Course ID)                        | Skills                                                                                 |
-| ---------------------------------------------- | -------------------------------------------------------------------------------------- |
-| Introduction to Computer Architecture (18-447) | CPU design and labs from the 1900s - early 2000s.                                      |
-| Microelectronic Circuits (18-320)              | An intro to analog and digital layout with Cadence Virtuoso                            |
-| Autonomous Robotics (18-442)                   | Convolutional Neural Networks; ROS2                                                    |
-| Quantum Physics (33-234)                       | The Schrodinger Equation; Hilbert Spaces and the Matrix formulation of Quantum Physics |
