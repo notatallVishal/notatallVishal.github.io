@@ -18,7 +18,6 @@ SystemVerilog is a hardware description language, not like your typical imperati
 
 3. Variables in hardware description languages (`logic`, `bit`, `wire`) represent individual singular bits and interconnections rather than a processor defined word (`int` in C or Python).
 
-
 ## Modular Design
 
 A key feature of SystemVerilog is that your designs can be instantiated as modules. Think of modules as units of reuse, much like functions are to an imperative programming language (of course, remember that these units are laid in parallel). 
